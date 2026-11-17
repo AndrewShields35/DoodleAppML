@@ -1,0 +1,9 @@
+html, body {
+  background-color: #8caa88;
+  font-size: 32pt;
+  display: grid;
+  place-items: center;
+}
+canvas {
+  display: block;
+}
